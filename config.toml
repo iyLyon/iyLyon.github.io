@@ -2,3 +2,6 @@ baseURL = 'https://www.ly-tech.top'
 languageCode = 'en-us'
 title = 'iyLyon'
 theme = 'PaperMod'
+
+[params]
+	social = true
