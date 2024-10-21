@@ -4,4 +4,8 @@ title = 'Ly.'
 theme = 'PaperMod'
 
 [params]
+	intro = true
+	email = "ly15351151@gmail.com"
+	opengraph = true
+	dateFormat = "Mon, Jan 2, 2006"
 	social = true
